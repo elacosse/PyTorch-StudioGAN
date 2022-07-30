@@ -7,7 +7,6 @@ res/
 logs/
 .vscode/
 save/
-data/
 wandb/
 test/
 *.csv
